@@ -12,7 +12,7 @@ namespace WebApplication3.DataAccess
         {
             context.Persons.Add(new Models.Person()
             {
-                Name = "Petras",
+                Name = "Tomas",
                 Age = 48
             });
 
